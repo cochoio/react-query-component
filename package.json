@@ -26,6 +26,9 @@
     "email": "kuby@cocho.io",
     "name": "kuby"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "dependencies": {},
   "devDependencies": {
     "@babel/preset-env": "^7.18.10",
