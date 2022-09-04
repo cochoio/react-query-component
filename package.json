@@ -1,6 +1,5 @@
 {
   "name": "@cochoio/react-query-component",
-  "private": true,
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
